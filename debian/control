@@ -1,7 +1,7 @@
 Source: lingmo-plymouth
 Section: misc
 Priority: optional
-Maintainer: LingmoOS Team <support@lingmo.org>
+Maintainer: Lingmo OS Team <team@lingmo.org>
 Build-Depends: debhelper (>=9)
 Standards-Version: 4.5.0
 
