@@ -1,11 +1,11 @@
-Source: cutefish-plymouth-theme
+Source: lingmo-plymouth
 Section: misc
 Priority: optional
-Maintainer: Reion Wong <reion@cutefishos.com>
+Maintainer: LingmoOS Team <support@lingmo.org>
 Build-Depends: debhelper (>=9)
-Standards-Version: 3.9.6
+Standards-Version: 4.5.0
 
-Package: cutefish-plymouth-theme
+Package: lingmo-plymouth
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: Plymouth theme for CutefishOS.
+Description: Plymouth theme for LingmoOS.

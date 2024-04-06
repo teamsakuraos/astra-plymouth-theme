@@ -1,10 +1,10 @@
 [Plymouth Theme]
-Name=Cutefish Text
-Description=CutefishOS
+Name=Lingmo OS Text
+Description=Lingmo OS Text
 ModuleName=text
 
 [text]
-title=CutefishOS
+title=Lingmo OS
 black=0x263238
 white=0xffffff
 brown=0x03A9F4

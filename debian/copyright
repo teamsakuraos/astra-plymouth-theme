@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: cutefish-plymouth-theme
-Source: https://github.com/cutefishos
+Upstream-Name: lingmo-plymouth
+Source: https://github.com/LingmoOS
 
 Files: *
 Copyright: <years> <put author's name and email here>
@@ -8,7 +8,7 @@ Copyright: <years> <put author's name and email here>
 License: GPL-3.0+
 
 Files: debian/*
-Copyright: 2017 Alexis Lopez Zubieta <azubieta90@gmail.com>
+Copyright: 2024 LingmoOS Team <support@lingmo.org>
 License: GPL-3.0+
 
 License: GPL-3.0+
