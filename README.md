@@ -1,6 +1,6 @@
-# CutefishOS Plymouth Theme
+# Lingmo OS Plymouth Theme
 
-Cutefishos boot background
+Lingmo OS boot background
 
 ## License
 
